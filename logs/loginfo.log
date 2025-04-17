@@ -1,0 +1,14 @@
+INFO:py4j.clientserver:Closing down clientserver connection
+2025-04-17 06:26:47,644,INFO,Dataframe created successfully
+2025-04-17 06:26:47,658,INFO,Closing down clientserver connection
+2025-04-17 08:49:41,940,INFO,Dataframe created successfully
+2025-04-17 08:56:41,429,INFO,Dataframe created successfully
+2025-04-17 08:56:47,218,INFO,Closing down clientserver connection
+2025-04-17 09:14:18,348,INFO,---Dataframe created Successfully---
+2025-04-17 09:14:23,955,INFO,Closing down clientserver connection
+2025-04-17 09:17:13,653,INFO,---Dataframe created Successfully---
+2025-04-17 09:17:28,043,INFO,Analytics 1 executed and result generated
+2025-04-17 09:17:28,043,INFO,Closing down clientserver connection
+2025-04-17 14:59:26,540,INFO,---Dataframe created Successfully---
+2025-04-17 14:59:33,828,INFO,Analytics 1 executed and result generated
+2025-04-17 14:59:33,828,INFO,Closing down clientserver connection

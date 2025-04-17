@@ -1,0 +1,5 @@
+Q) find what is the peak time in above data use 1 hr interval
+--> create a new col with hour from order time
+--> group on basis of hour and find no of orders
+
+Q) find the riders who working in btw 4 pm and 10 pm
